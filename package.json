@@ -1,0 +1,18 @@
+{
+  "name": "sharpener-node-task-1",
+  "version": "1.0.0",
+  "description": "Sharpener Node.js Task - Streams, Buffers, and Request Handling with 302 Redirection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "sharpener",
+    "streams",
+    "buffers",
+    "http"
+  ],
+  "author": "",
+  "license": "ISC"
+}
